@@ -6,7 +6,6 @@ nav: true
 nav_order: 1
 ---
 
-<!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="refresh" content="0; url=/assets/pdf/CV.pdf" />
