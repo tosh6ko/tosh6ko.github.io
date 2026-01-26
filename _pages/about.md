@@ -29,6 +29,6 @@ I completed my MSc in Computer Science at ETH Zürich and earned a First Class B
 Over the years, I’ve worked in Switzerland, Germany, and the UK, contributing to projects ranging from scalable graph
 analytics at Oracle to AI-enhanced phishing training for my master’s thesis.
 
-I enjoy building robust, thoughtful systems and collaborating with others to solve meaningful problems.
+I enjoy building robust, efficient systems and collaborating with others to solve meaningful problems.
 In my spare time, you’ll find me playing table football, tinkering with side projects, or diving into simulation games
 like Cities: Skylines and Minecraft.
