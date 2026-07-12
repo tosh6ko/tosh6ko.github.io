@@ -24,11 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a computer scientist with a passion for secure systems, backend development, and practical applications of AI.
-I completed my MSc in Computer Science at ETH Zürich and earned a First Class BSc from the University of Bristol.
-Over the years, I’ve worked in Switzerland, Germany, and the UK, contributing to projects ranging from scalable graph
-analytics at Oracle to AI-enhanced phishing training for my master’s thesis.
+I am a computer engineer specialising in computer architecture and systems engineering. My interests lie in
+understanding how hardware and software interact to build fast, efficient, and reliable computing systems. I hold an
+MSc in Computer Science from ETH Zürich and a First Class BSc from the University of Bristol.
 
-I enjoy building robust, efficient systems and collaborating with others to solve meaningful problems.
-In my spare time, you’ll find me playing table football, tinkering with side projects, or diving into simulation games
-like Cities: Skylines and Minecraft.
+Throughout my career, I have worked on projects ranging from backend systems and distributed graph analytics to
+AI-assisted developer tools. Today, my focus is on processor microarchitecture, performance optimisation, and CPU
+design, where I collaborate with both hardware and software engineers to improve next-generation computing platforms.
+
+Outside of engineering, I enjoy playing table football, building side projects, and spending time with simulation
+games such as Cities: Skylines and Minecraft.
