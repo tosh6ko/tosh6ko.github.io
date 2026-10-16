@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a computer engineer specialising in computer architecture and systems engineering. My interests lie in
+I am a software engineer specialising in computer architecture and systems engineering. My interests lie in
 understanding how hardware and software interact to build fast, efficient, and reliable computing systems. I hold an
 MSc in Computer Science from ETH Zürich and a First Class BSc from the University of Bristol.
 
